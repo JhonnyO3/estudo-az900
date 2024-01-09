@@ -33,7 +33,7 @@ O Azure possui regiões soberanas, como US DoD Central, US Gov – Virgínia, US
 - Políticas e RBAC podem ser vinculados aos grupos de gerenciamento para facilitar o controle de acesso.
 
 ### Redes Virtuais
-- ##Possiveis metodos de conexão entre o Azure e a rede local:
+- ## Possiveis metodos de conexão entre o Azure e a rede local:
   - As conexões de rede virtual privada ponto a site são de um computador fora da organização de volta para a rede corporativa. Nesse caso, o computador cliente inicia uma conexão VPN criptografada para se conectar à rede virtual do Azure.
   - Redes virtuais privadas site a site vinculam seu dispositivo VPN ou gateway de VPN local ao Gateway de VPN do Azure em uma rede virtual. Na verdade, os dispositivos no Azure podem aparecer como estando na rede local. A conexão é criptografada e funciona pela Internet.
   - O Azure ExpressRoute fornece uma conectividade privada dedicada para o Azure que não passa pela Internet. O ExpressRoute é útil para ambientes em que você precisa de maior largura de banda e níveis de segurança ainda mais altos.
