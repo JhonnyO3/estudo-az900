@@ -145,4 +145,26 @@ métodos de conexão entre o Microsoft Entra ID e seu AD local é o uso do Micro
   - Um grupo de gerenciamento (uma coleção de várias assinaturas).
   - Uma assinatura única.
   - Um grupo de recursos.
+### Microsoft Purview
+- Duas áreas de solução principais compreendem o Microsoft Purview: risco e conformidade e governança unificada de dados. -> monitorar seus dados. 
+
+### Azure Policy
+- se você definir um Azure Policy em um grupo de recursos, todos os recursos criados nesse grupo de recursos receberão automaticamente a mesma política.
+- Azure Policy se integra ao Azure DevOps aplicando as políticas de pipeline de entrega e integração contínua que se pertencem às fases pré e pós-implantação dos seus aplicativos.
+- iniciativa do Azure Policy é uma forma de agrupar políticas relacionadas. 
+
+### Bloqueios de Recurso
+- Os bloqueios de recursos podem ser aplicados a recursos individuais, grupos de recursos ou até mesmo a toda uma assinatura.
+- recursos são herdados, o que significa que, se você colocar um bloqueio de recurso em um grupo de recursos, todos os recursos do grupo de recursos também terão o bloqueio de recurso aplicado.
+- Há dois tipos de bloqueios de recursos, um que impede que os usuários excluam e outro que impede que os usuários alterem ou excluam um recurso.
+
+### Portal de confiança
+- O Portal de Confiança do Serviço da Microsoft é um local que oferece acesso a vários conteúdos, ferramentas e outros recursos sobre práticas de segurança, privacidade e conformidade da Microsoft.
+
+### Ferramentas do Azure
+- CLI do Azure -> Shell Bash
+- Azure PowerShell -> PowerShell
+
+### Bicep
+- O Bicep é uma linguagem que usa sintaxe declarativa para implantar recursos do Azure. Um arquivo Bicep define a infraestrutura e a configuração. Em seguida, o ARM implanta esse ambiente com base no arquivo Bicep.
 
