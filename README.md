@@ -168,3 +168,5 @@ métodos de conexão entre o Microsoft Entra ID e seu AD local é o uso do Micro
 ### Bicep
 - O Bicep é uma linguagem que usa sintaxe declarativa para implantar recursos do Azure. Um arquivo Bicep define a infraestrutura e a configuração. Em seguida, o ARM implanta esse ambiente com base no arquivo Bicep.
 
+### APROVADO
+
